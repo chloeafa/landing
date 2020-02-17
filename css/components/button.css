@@ -1,9 +1,13 @@
 .btn-one { 
-	background-color: #FFE8D1;
+	background-color: #A15E49;
 	padding: 10px 38px;
 	border-radius: 10px;
-	color: #A15E49;
+	color: white;
 	font-weight: bold;
-	font-size: 17px;
+	font-size: 18px;
 	font-family: 'Prata', serif;
+	transition: .3s;
  }
+
+.btn-one:hover {
+	background-color: #ae7666;
